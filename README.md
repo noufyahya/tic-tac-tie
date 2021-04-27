@@ -1,7 +1,9 @@
 # tic-tac-tie
 #### This is the famouse tic-tac-tie game in Python language 
+
 This game can win by row, column and diagnolly,
-this is a art of my practice on python
+
+This is a part of my practice on python
 
 #### Sample:
 
